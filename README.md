@@ -51,7 +51,7 @@ Read [this](https://t.me/mkvindiaott) before you start messing up with your edit
 ### Optional Variables
 * `PICS`: Telegraph links of images to show in start message.( Multiple images can be used separated by space )
 * `FILE_STORE_CHANNEL`: Channel from were file store links of posts should be made.Separate multiple IDs by space
-* Check [info.py](https://github.com/VJBots/AutoFilterAdvance/blob/main/info.py) for more
+* Check [info.py](https://github.com/Rareseries/Mkvfileshub/blob/main/info.py) for more
 ## EXTRA FEATURES
 * `SELF_DELETE`: True if SELF_DELETE is On, False if Off
 * `SELF_DELETE_SECONDS`: Enter Seconds to be SELF_DELETE 
@@ -62,7 +62,7 @@ Read [this](https://t.me/mkvindiaott) before you start messing up with your edit
 ## Deploy
 You can deploy this bot anywhere.
 
-<i>**[Watch Deploying Tutorial...](https://youtube.com/@Tech_VJ)**</i>
+<i>**[Watch Deploying Tutorial...]()**</i>
 
 <details><summary>Deploy To Heroku</summary>
 <p>
