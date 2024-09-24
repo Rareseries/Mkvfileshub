@@ -13,7 +13,7 @@
 
 
 <h1 align="center">
-  <b>VJ Botz</b>
+  <b>Files Bot</b>
 </h1>
 
 
@@ -37,7 +37,7 @@
 - [x] File Store
 ## Variables
 
-Read [this](https://telegram.dog/VJ_Botz) before you start messing up with your edits.
+Read [this](https://t.me/mkvindiaott) before you start messing up with your edits.
 
 ### Required Variables
 * `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
